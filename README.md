@@ -9,7 +9,6 @@ Thanks for your visit.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=79ff97)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=79ff97)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=79ff97)
 ![](https://img.shields.io/badge/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=79ff97)
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=79ff97)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=79ff97)
